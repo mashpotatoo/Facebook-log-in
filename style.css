@@ -2,6 +2,7 @@
     margin: 0%;
     padding: 0%;
     background-color: #F0F2F5;
+    box-sizing: border-box;
     
 }
 .textbox{
